@@ -34,8 +34,6 @@ If MySQL is installed, run:
 
 ```bash
 mysql -u root -p < schema.sql
-mysql -u root -p coop_application_tracker < supporting-files/seed.sql
-mysql -u root -p coop_application_tracker < supporting-files/demo_queries.sql
 ```
 
 If you use a different MySQL username, change the command as needed.

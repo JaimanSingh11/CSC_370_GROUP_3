@@ -5,9 +5,9 @@ CSC 370 Project Kick-Off - Fall 2026
 ## Group 3
 
 
-Amrinder Singh ()
-Jaiman Singh (V01023930)
-Aashna Sadeque ()
+Amrinder Singh
+Jaiman Singh
+Aashna Sadeque 
 
 
 ## Project Idea

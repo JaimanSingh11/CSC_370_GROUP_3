@@ -1,6 +1,7 @@
 # Sources Used
 
 The project idea and database design were based on the CSC 370 lecture slides provided for the course.
+We also refered to the assignment instructions and the rubrik provided.
 
 
 ## Main Course Ideas Used
@@ -20,3 +21,4 @@ The project idea and database design were based on the CSC 370 lecture slides pr
 ## External Sources
 
 No external code sources were used for the SQL files in this kick-off stage.
+We used an external website, where we constructed our ERD.

@@ -40,13 +40,4 @@ mysql -u root -p coop_application_tracker < supporting-files/demo_queries.sql
 
 If you use a different MySQL username, change the command as needed.
 
-## Submission Checklist
 
-- Add these files to a GitHub repository.
-- Commit the files.
-- Copy the GitHub link and the exact commit hash.
-- Record a video that is no longer than 11 minutes because the group has 3 people.
-- In the video, show the ERD/schema, SQL DDL, sample data, demo queries, and next sprint plan.
-- Make sure one group member submits on Brightspace for the whole group.
-- If the GitHub repo is private, give access to the instructor and TA-client.
-- Include or point to `SOURCES.md` so the course sources are clear.

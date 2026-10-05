@@ -1,7 +1,7 @@
 # Sources Used
 
 The project idea and database design were based on the CSC 370 lecture slides provided for the course.
-We also refered to the assignment instructions and the rubrik provided.
+We also referred to the assignment instructions and the rubric provided.
 
 
 ## Main Course Ideas Used

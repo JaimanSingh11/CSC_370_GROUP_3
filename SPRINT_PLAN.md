@@ -28,7 +28,7 @@ We consider this sprint successful if:
 - The normalization reasoning is in `NORMALIZATION.md`.
 - The MySQL DDL is in `schema.sql`.
 
-We think this shows real progress because the project now has a structure that can be tested and changed. It is not just an idea anymore.
+This shows real progress because the project now has a structure that can be tested and changed. It is not just an idea anymore.
 
 ## Missed Or Uncertain Goals
 

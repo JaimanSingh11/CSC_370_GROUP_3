@@ -27,7 +27,6 @@ We consider this sprint successful if:
 - The relational schema is in `RELATIONAL_SCHEMA.md`.
 - The normalization reasoning is in `NORMALIZATION.md`.
 - The MySQL DDL is in `schema.sql`.
-- Extra sample data and demo queries are in `supporting-files/`.
 
 We think this shows real progress because the project now has a structure that can be tested and changed. It is not just an idea anymore.
 
@@ -47,7 +46,7 @@ For the next sprint, we want to cover the material up to Advanced Relational Des
    - one application should not have duplicate interview round numbers
 4. Decide whether inheritance or weak entity sets would actually help our design.
 5. Add more realistic sample data.
-6. Write more SQL queries for reporting, like active applications, interview schedule, and offers.
+6. Write SQL queries for reporting, like active applications, interview schedule, and offers.
 
 ## Next Sprint Success Criteria
 

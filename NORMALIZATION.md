@@ -10,7 +10,7 @@ At first this looks simple, but it would repeat a lot of data. The same employer
 
 ## Main Functional Dependencies
 
-These are the main functional dependencies we think should hold:
+These are the main functional dependencies for the current design:
 
 - `student_id -> full_name, username, email, program`
 - `employer_id -> employer_name, industry, website, city, province, country`
@@ -43,7 +43,7 @@ For BCNF, the main idea we used is that every non-trivial functional dependency 
 - interview facts are only in `Interview`
 - offer facts are only in `Offer`
 
-Acc to us, this avoids the main anomaly problem from putting everything in one relation. For example, deleting a rejected application will not delete the employer from the database. Also, changing an employer website does not require updating every application row.
+This avoids the main anomaly problem from putting everything in one relation. For example, deleting a rejected application will not delete the employer from the database. Also, changing an employer website does not require updating every application row.
 
 ## Small BCNF Example From Our Design
 

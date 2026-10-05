@@ -21,4 +21,4 @@ We also refered to the assignment instructions and the rubrik provided.
 ## External Sources
 
 No external code sources were used for the SQL files in this kick-off stage.
-We used an external website, where we constructed our ERD.
+

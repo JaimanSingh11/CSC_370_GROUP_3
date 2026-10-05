@@ -77,8 +77,6 @@ The design also uses ideas from the slides, like conceptual design, identifiers,
 
 We have not received any TA/client requirements yet. Because of that, the current scope is based on what we think a co-op tracker should need. If the TA wants something different, we can change the design in the next sprint.
 
-We also still need to push the repo to GitHub and use the final GitHub link and commit hash in the Brightspace submission.
-
 ## Sources Used
 
 The project was made using the CSC 370 kick-off instructions, the attached rubric, and the lecture slides up to Advanced Relational Design. More details are in `SOURCES.md`.
